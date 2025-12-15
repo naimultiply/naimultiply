@@ -1,6 +1,6 @@
-# Bank of the Future - Landing Page
+# Trust Management Initiative - Landing Page
 
-Welcome to the official landing page for the Bank of the Future project by naimultiply.
+Welcome to the Trust Management Initiative project by naimultiply.
 
 ## Project Overview
 
@@ -75,5 +75,6 @@ To customize this website for your needs:
 3. Modify `script.js` to adjust interactive behaviors
 
 ## Support
+
 
 For any questions or issues, please contact hello@naimultiply.com
